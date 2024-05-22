@@ -8,6 +8,8 @@
 
 
 
+
+
 ```
 npm install
 npm run dev
@@ -16,3 +18,8 @@ npm run dev
 ```
 open http://localhost:3000
 ```
+
+
+欢迎关注我的公众号：
+
+![我的公众号](./weixin-qrcode.webp)
